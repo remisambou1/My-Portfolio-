@@ -1,0 +1,57 @@
+# Remi Sambou - Portfolio Website
+
+A professional portfolio website showcasing my skills, projects, and experience as a Junior Software Developer.
+
+## 📖 About This Project
+
+This is my personal portfolio website built to showcase my work and qualifications to potential employers and clients. The site features a modern cyberpunk design with a dark theme and neon accents, making it visually appealing and memorable.
+
+## 🎯 Purpose
+
+- Present my professional background and education
+- Showcase my technical skills and expertise
+- Display completed and ongoing projects
+- Provide easy contact options for opportunities
+
+## 🔧 Built With
+
+- **HTML5** - Structure and content
+- **CSS3** - Styling and animations
+- **JavaScript** - Interactive functionality and page navigation
+
+No frameworks or external libraries required - just pure web technologies.
+
+## 📄 Website Sections
+
+1. **Home** - Introduction with my name, title, and brief overview
+2. **About** - My journey as a developer and educational background
+3. **Skills** - Technical and soft skills organized by category
+4. **Projects** - 5 featured projects I've built, including:
+   - Multi-vendor eCommerce Platform (Ongoing)
+   - Construction Website with E-commerce
+   - Church Unity Platform
+   - Inventory Management System
+   - School Management System
+5. **Contact** - Email, phone, location, and contact form
+
+## 🌟 Key Features
+
+- Clean, professional design with cyberpunk aesthetic
+- Fully responsive - works on mobile, tablet, and desktop
+- Smooth page transitions and hover effects
+- Easy to navigate with single-page application structure
+- Interactive contact form
+
+## 🚀 How to View
+
+Simply open the `index.html` file in any modern web browser (Chrome, Firefox, Safari, Edge).
+
+## 📞 Contact Information
+
+- **Email:** remisambou1@gmail.com
+- **Phone:** +220-2331414
+- **Location:** Brusubi Phase 2, The Gambia
+
+---
+
+**Last Updated:** October 2025
